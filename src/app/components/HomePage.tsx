@@ -67,7 +67,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
                   marginBottom: "24px",
                   letterSpacing: "-0.02em",
                 }}
-              >Hello, I'm Zhafira!<br />Just a student who loves to code and build things.</h1>
+              >Hi, I'm Zhafira!<br />Just a student who loves to code and build things.</h1>
               <p
                 style={{
                   fontFamily: "'Inter', sans-serif",
